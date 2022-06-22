@@ -1,0 +1,23 @@
+
+.App{
+  background:#fafafc;
+  height: 100%;
+  width:100%;
+  color: #312651;
+  display: flex;
+  justify-content: center;
+}
+
+.AppContainer{
+  width:50%;
+}
+.SearchContainer{
+  width:100%;
+  margin-bottom: 2rem;
+}
+
+
+.ListError{
+font-size: larger;
+padding:1rem;
+}

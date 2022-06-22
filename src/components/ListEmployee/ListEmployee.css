@@ -1,0 +1,31 @@
+.ListWrapper{
+    width:100%
+}
+.List{
+    height:3rem;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+
+.List:hover{
+    border:2px solid #312651;  
+}
+
+.ListName {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.ListDetails{
+    color: #878499;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ListDetails > span{
+ padding:5px 20px;
+ border-radius: 10px;
+ background-color: #f3f4f8;
+}
